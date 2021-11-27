@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bearxz.github.io/bear/</id>
+    <id>https://bearxz.github.io/</id>
     <title>BearXZ</title>
-    <updated>2021-11-27T02:47:52.537Z</updated>
+    <updated>2021-11-27T02:53:39.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bearxz.github.io/bear/"/>
-    <link rel="self" href="https://bearxz.github.io/bear/atom.xml"/>
+    <link rel="alternate" href="https://bearxz.github.io/"/>
+    <link rel="self" href="https://bearxz.github.io/atom.xml"/>
     <subtitle>天上白玉京，十二楼五城</subtitle>
-    <logo>https://bearxz.github.io/bear/images/avatar.png</logo>
-    <icon>https://bearxz.github.io/bear/favicon.ico</icon>
+    <logo>https://bearxz.github.io/images/avatar.png</logo>
+    <icon>https://bearxz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, BearXZ</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bearxz.github.io/bear/post/hello-gridea/</id>
-        <link href="https://bearxz.github.io/bear/post/hello-gridea/">
+        <id>https://bearxz.github.io/post/hello-gridea/</id>
+        <link href="https://bearxz.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
